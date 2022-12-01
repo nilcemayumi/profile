@@ -1,5 +1,6 @@
 body {
   font-family: 'Inter', sans-serif;
+  background-image: url(images/kate-mclean-jZSL_Dt4Fes-unsplash.jpg);
 }
 
 h1, h2, h3 {
@@ -9,7 +10,7 @@ h1, h2, h3 {
 
 h1{
   font-size: 40px;
-}
+}"
 
 p {
   color: #231942;
@@ -33,6 +34,7 @@ a {
 }
 .card-white {
   border:#231942;
+  background-color: #ffffff;
   box-shadow:0px 10px 30px rgb(0 0 0 / 10%);
   margin: 20px 0px;
   padding: 30px;
